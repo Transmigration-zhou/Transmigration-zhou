@@ -1,18 +1,3 @@
-「呐，你喜欢花吗？」
-「~~不，我讨厌花~~」
-
-「你为什么要挥剑？」
-「~~因为我只有这个~~」
-
-------------
-「你喜欢花吗？」
-「现在不讨厌了」
-
-「为什么要挥剑呢？」
-「为了保护你」
-
-
-
 ### Hi there 👋
 
 <!--
@@ -31,3 +16,19 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Transmigration-zhou&theme=vue-dark&show_icons=true)
+
+
+
+
+「呐，你喜欢花吗？」
+「~~不，我讨厌花~~」
+
+「你为什么要挥剑？」
+「~~因为我只有这个~~」
+
+------------
+「你喜欢花吗？」
+「现在不讨厌了」
+
+「为什么要挥剑呢？」
+「为了保护你」
