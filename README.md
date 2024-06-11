@@ -1,6 +1,8 @@
 ### Hi there 👋
 这里是小熠（也可以叫我熠宝、熠仔
 
+无能狂怒/万年打铁acmer/啥也不会ctfer/退役雀魂选手/在成为打谱人的方向越走越远/前iOSer/正在努力成为gopher
+
 <!--
 **Transmigration-zhou/Transmigration-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
