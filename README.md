@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Transmigration-zhou&theme=vue-dark&layout=compact&hide=javascript,css,less,scss,starlark)
 
 
-「呐，你喜欢花吗？」
-「~~不，我讨厌花~~」
+「花、好きになった？」
+「~~いや、嫌いだな~~」
 
-「你为什么要挥剑？」
-「~~因为我只有这个~~」
+「どうして、剣を振るの？」
+「~~俺にはこれしかないからだ~~」
 
 ------------
-「你喜欢花吗？」
-「现在不讨厌了」
+「花は、好き？」
+「嫌いじゃなくなった」
 
-「为什么要挥剑呢？」
-「为了保护你」
+「どうして、剣を振るの？」
+「お前を守るために」
