@@ -1,4 +1,4 @@
-### Hi there 👋
+### My Palette 🎨
 这里是小熠（也可以叫我熠宝、熠仔
 
 无能狂怒/万年打铁ACMer/啥也不会CTFer/退役雀魂选手/在成为打谱人的方向越走越远/前iOSer/正在努力成为Gopher
