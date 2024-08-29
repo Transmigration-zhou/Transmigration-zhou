@@ -1,7 +1,7 @@
 ### My Palette 🎨
 
-![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Transmigration-zhou&link=https://github.com/Transmigration-zhou)
-![Bilibili](https://img.shields.io/badge/--FFFFFF?style=social&logo=bilibili&label=小熠小熠很不容易&link=https://space.bilibili.com/40180524)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Transmigration-zhou&link=https://github.com/Transmigration-zhou)](https://github.com/Transmigration-zhou)
+[![Bilibili](https://img.shields.io/badge/--FFFFFF?style=social&logo=bilibili&label=小熠小熠很不容易&link=https://space.bilibili.com/40180524)](https://space.bilibili.com/40180524)
 
 这里是小熠（也可以叫我熠宝、熠仔
 
