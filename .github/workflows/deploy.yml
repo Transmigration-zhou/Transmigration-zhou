@@ -24,6 +24,7 @@ jobs:
           options: username=${{ github.repository_owner }}&theme=vue-dark&show_icons=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -32,6 +33,7 @@ jobs:
           options: username=${{ github.repository_owner }}&theme=vue-dark&layout=compact&hide=javascript,css,less,scss,starlark
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
 
       # - name: Generate pin card
       #   uses: stats-organization/github-readme-stats-action@v2
@@ -40,6 +42,7 @@ jobs:
       #     options: username=stats-organization&repo=github-readme-stats
       #     path: profile/pin-stats-organization-github-readme-stats.svg
       #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     fail_on_error: "true"
 
       - name: Commit cards
         run: |
