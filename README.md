@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](./profile/stats.svg)
-
-![Top Langs](./profile/top-langs.svg)
+<p align="left">
+  <img src="./profile/stats.svg" alt="GitHub stats" align="top" />
+  <img src="./profile/top-langs.svg" alt="Top Langs" align="top" />
+</p>
 
 
 「花、好きになった？」
